@@ -1,0 +1,10 @@
+name: Challenge14
+version: ${project.version}
+main: me.ghit.challenge14.Main
+api-version: 1.13
+authors: [ghit]
+description: Challenge 14 for Cortex Development
+commands:
+  blreload:
+    usage: /<command>
+    description: Reloads blacklist configuration file
